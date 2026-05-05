@@ -273,6 +273,7 @@ MIT License — feel free to use this project for your portfolio or as a learnin
 ## 👤 Author
 
 Sivarkamani
+
 Built as part of an AI/ML portfolio project demonstrating multi-agent LLM orchestration.
 
 **Star ⭐ this repo if you found it helpful!**
